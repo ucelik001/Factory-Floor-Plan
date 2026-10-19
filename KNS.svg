@@ -1,0 +1,295 @@
+<svg width="3000" height="1600" viewBox="0 0 3000 1600" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="3000" height="1600" fill="#F5F5F5"/>
+<g id="KNS">
+<rect width="3000" height="1600" fill="white"/>
+<g id="FactoryAssembly">
+<g id="001">
+<text id="001 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="590.417" y="1424.05">WorkCenter 001&#10;</tspan><tspan x="573.913" y="1439.05">AIR DUCT ASSEMBLY</tspan></text>
+<rect id="001 area" x="410" y="1409" width="456" height="186" stroke="#BABABA" stroke-width="6"/>
+<g id="001-05">
+<text id="001-05 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="451.575" y="1463.91">WorkStation 001-05&#10;</tspan><tspan x="453.281" y="1472.91">MAIN ASSEMBLY-1</tspan></text>
+<rect id="001-05 area" x="438.291" y="1443.28" width="97.422" height="44.7952" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="001-06">
+<text id="001-06 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="722.885" y="1470.23">WorkStation 001-06&#10;</tspan><tspan x="710.239" y="1479.23">FABRIC LEATHER COATING</tspan></text>
+<rect id="001-06 area" x="704.526" y="1448.77" width="107.688" height="46.4659" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="001-07">
+<text id="001-07 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="488.684" y="1543.65">WorkStation 001-07&#10;</tspan><tspan x="489.779" y="1552.65">MAIN ASSEMBLY-2</tspan></text>
+<rect id="001-07 area" x="468.405" y="1523.92" width="110.987" height="43.006" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="001-08">
+<text id="001-08 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="738.554" y="1552.52">WorkStation 001-08&#10;</tspan><tspan x="739.69" y="1561.52">MAIN ASSEMBLY-3</tspan></text>
+<rect id="001-08 area" x="704.527" y="1532.98" width="138.969" height="42.6142" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="003">
+<text id="003 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="926.343" y="574.045">WorkCenter 003&#10;</tspan><tspan x="943.335" y="589.045">SMD TYPE</tspan></text>
+<rect id="003 area" x="897" y="559" width="156" height="166" stroke="#BABABA" stroke-width="6"/>
+<g id="003-01">
+<text id="003-01 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="945.6" y="658.873">WorkStation 003-01&#10;</tspan><tspan x="944.363" y="667.873">SMD TYPE-SETTING</tspan></text>
+<rect id="003-01 area" x="923.301" y="642.162" width="115.666" height="36.967" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="006">
+<text id="006 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="246.422" y="910.045">WorkCenter 006&#10;</tspan><tspan x="242.968" y="925.045">BODY ASSEMBLY</tspan></text>
+<rect id="006 area" x="227" y="895" width="136" height="136" stroke="#BABABA" stroke-width="6"/>
+<g id="006-01">
+<text id="006-01 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="254.919" y="980.226">WorkStation 006-01&#10;</tspan><tspan x="259.185" y="989.226">BODY ASSEMBLY</tspan></text>
+<rect id="006-01 area" x="238.739" y="964.809" width="103.332" height="34.3795" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="012">
+<text id="012 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="1485.54" y="574.045">WorkCenter 012&#10;</tspan><tspan x="1493.72" y="589.045">WAREHOUSE</tspan></text>
+<rect id="012 area" x="1455" y="559" width="156" height="146" stroke="#BABABA" stroke-width="6"/>
+<g id="012-01">
+<text id="012-01 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="1495.88" y="652.789">WorkStation 012-01&#10;</tspan><tspan x="1509.47" y="661.789">WAREHOUSE</tspan></text>
+<rect id="012-01 area" x="1479.38" y="637.067" width="107.311" height="34.9879" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="017">
+<text id="017 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="516.753" y="574.045">WorkCenter 017&#10;</tspan><tspan x="490.019" y="589.045">ELECTRONIC ASSEMBLY</tspan></text>
+<rect id="017 area" x="311" y="559" width="506" height="186" stroke="#BABABA" stroke-width="6"/>
+<g id="005-01">
+<text id="005-01 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="360.951" y="651.876">WorkStation 005-01&#10;</tspan><tspan x="346.881" y="660.876">ELECTRONIC PRODUCTION</tspan></text>
+<rect id="005-01 area" x="330.146" y="637.263" width="132.465" height="32.7722" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="005-02">
+<text id="005-02 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="553.071" y="704.62">WorkStation 005-02&#10;</tspan><tspan x="547.014" y="713.62">CABLE / INSTALLATION</tspan></text>
+<rect id="005-02 area" x="539.939" y="682.711" width="98.1729" height="47.3636" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="005-03">
+<text id="005-03 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="710.685" y="635.423">WorkStation 005-03&#10;</tspan><tspan x="701.248" y="644.423">FIXTURE ARMAMENTURE</tspan></text>
+<rect id="005-03 area" x="690.822" y="613.514" width="111.87" height="47.3636" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="020">
+<text id="020 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="94.5381" y="1354.05">WorkCenter 020&#10;</tspan><tspan x="109.833" y="1369.05">INJECTION</tspan></text>
+<rect id="020 area" x="5" y="1339" width="276" height="256" stroke="#BABABA" stroke-width="6"/>
+<g id="020-01">
+<text id="020-01 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="174.719" y="1411.94">WorkStation 020-01&#10;</tspan><tspan x="194.033" y="1420.94">90 TONS</tspan></text>
+<rect id="020-01 area" x="153.712" y="1394.83" width="112.846" height="37.7838" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="020-02">
+<text id="020-02 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="45.565" y="1460.78">WorkStation 020-02&#10;</tspan><tspan x="63.6631" y="1469.78">160 TONS</tspan></text>
+<rect id="020-02 area" x="25.9999" y="1443.66" width="111.017" height="37.7838" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="020-03">
+<text id="020-03 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="174.002" y="1517.72">WorkStation 020-03&#10;</tspan><tspan x="169.3" y="1526.72">INJECTION ASSEMBLY</tspan></text>
+<rect id="020-03 area" x="150.839" y="1500.6" width="118.448" height="37.7838" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="020-04">
+<text id="020-04 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="44.4371" y="1554.22">WorkStation 020-04&#10;</tspan><tspan x="62.202" y="1563.22">250 TONS</tspan></text>
+<rect id="020-04 area" x="25.0076" y="1537.1" width="111.017" height="37.7838" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="025">
+<text id="025 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="1142.64" y="892.045">WorkCenter 025&#10;</tspan><tspan x="1115.04" y="907.045">RAIL VEHICLE ASSEMBLY</tspan></text>
+<rect id="025 area" x="1068" y="877" width="246" height="96" stroke="#BABABA" stroke-width="6"/>
+<g id="025-01">
+<text id="025-01 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="1156.35" y="938.945">WorkStation 025-01&#10;</tspan><tspan x="1146.13" y="947.945">RAIL VEHICLE ASSEMBLY</tspan></text>
+<rect id="025-01 area" x="1124.45" y="920.906" width="134.505" height="39.625" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="027">
+<text id="027 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="1051.87" y="1102.05">WorkCenter 027&#10;</tspan><tspan x="1011.8" y="1117.05">SPECIAL VEHICLE ASSEMBLY</tspan></text>
+<rect id="027 area" x="962" y="1087" width="276" height="206" stroke="#BABABA" stroke-width="6"/>
+<g id="026-01">
+<text id="026-01 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="991.772" y="1162.76">WorkStation 026-01&#10;</tspan><tspan x="992.332" y="1171.76">SPECIAL VEHICLE 1</tspan></text>
+<rect id="026-01 area" x="976.671" y="1148.38" width="101.027" height="32.3019" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="026-02">
+<text id="026-02 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="1137.29" y="1196.72">WorkStation 026-02&#10;</tspan><tspan x="1137.85" y="1205.72">SPECIAL VEHICLE 2</tspan></text>
+<rect id="026-02 area" x="1124.85" y="1182.34" width="96.7729" height="32.3019" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="027-01">
+<text id="027-01 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="999.095" y="1230.68">WorkStation 027-01&#10;</tspan><tspan x="988.251" y="1239.68">METAL PARTS ASSEMBLY</tspan></text>
+<rect id="027-01 area" x="976.671" y="1216.3" width="115.277" height="32.3019" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="027-02">
+<text id="027-02 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="1132.27" y="1260.37">WorkStation 027-02&#10;</tspan><tspan x="1141.25" y="1269.37">SIDE PROCESS</tspan></text>
+<rect id="027-02 area" x="1113.4" y="1245.99" width="109.242" height="32.3019" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="028">
+<text id="028 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="1426.59" y="1040.05">WorkCenter 028&#10;</tspan><tspan x="1445.79" y="1055.05">SHIPPING</tspan></text>
+<rect id="028 area" x="1397" y="1025" width="156" height="208" stroke="#BABABA" stroke-width="6"/>
+<g id="028-01">
+<text id="028-01 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="1439.62" y="1172.21">WorkStation 028-01&#10;</tspan><tspan x="1436.36" y="1181.21">PRODUCT SHIPMENT</tspan></text>
+<rect id="028-01 area" x="1430.44" y="1149.02" width="89.1248" height="49.9315" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="030">
+<text id="030 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="1454.34" y="1504.05">WorkCenter 030&#10;</tspan><tspan x="1442.88" y="1519.05">KNS CONTRACTING</tspan></text>
+<rect id="030 area" x="1395" y="1489" width="216" height="106" stroke="#BABABA" stroke-width="6"/>
+<g id="030-01">
+<text id="030-01 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="1467.34" y="1560.24">WorkStation 030-01&#10;</tspan><tspan x="1466.8" y="1569.24">KNS CONTRACTING</tspan></text>
+<rect id="030-01 area" x="1450" y="1548.25" width="105.75" height="27.5339" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="031">
+<text id="031 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="539.344" y="1207.05">WorkCenter 031&#10;</tspan><tspan x="530.799" y="1222.05">MAIN ASSEMBLY-1</tspan></text>
+<rect id="031 area" x="359" y="1192" width="456" height="86" stroke="#BABABA" stroke-width="6"/>
+<g id="031-01">
+<text id="031-01 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="416.094" y="1246.54">WorkStation 031-01&#10;</tspan><tspan x="417.68" y="1255.54">MAIN ASSEMBLY 1</tspan></text>
+<rect id="031-01 area" x="387.328" y="1229.64" width="127.398" height="37.3333" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="031-02">
+<text id="031-02 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="694.417" y="1246.54">Workstation 031-02&#10;</tspan><tspan x="698.226" y="1255.54">BODY ASSEMBLY</tspan></text>
+<rect id="031-02 area" x="672.219" y="1229.64" width="114.453" height="37.3333" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="032">
+<text id="032 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="713.465" y="862.045">WorkCenter 032&#10;</tspan><tspan x="705.134" y="877.045">MAIN ASSEMBLY-2</tspan></text>
+<rect id="032 area" x="584" y="847" width="356" height="86" stroke="#BABABA" stroke-width="6"/>
+<g id="032-01">
+<text id="032-01 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="726.512" y="905.773">WorkStation 032-01&#10;</tspan><tspan x="728.097" y="914.773">MAIN ASSEMBLY 2</tspan></text>
+<rect id="032-01 area" x="703.446" y="891.695" width="117.052" height="31.7012" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="033">
+<text id="033 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="571.27" y="1032.05">WorkCenter 033&#10;</tspan><tspan x="562.798" y="1047.05">MAIN ASSEMBLY-3</tspan></text>
+<rect id="033 area" x="467" y="1017" width="306" height="81" stroke="#BABABA" stroke-width="6"/>
+<g id="033-01">
+<text id="033-01 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="583.742" y="1072.73">WorkStation 033-01&#10;</tspan><tspan x="585.328" y="1081.73">MAIN ASSEMBLY 3</tspan></text>
+<rect id="033-01 area" x="567.464" y="1060.75" width="103.711" height="27.5166" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="034">
+<text id="034 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="24.239" y="1068.05">WorkCenter 034&#10;</tspan><tspan x="45.1985" y="1083.05">COATING</tspan></text>
+<rect id="034 area" x="5" y="1053" width="136" height="106" stroke="#BABABA" stroke-width="6"/>
+<g id="034-01">
+<text id="034-01 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="37.2768" y="1125.15">WorkStation 034-01&#10;</tspan><tspan x="56.1916" y="1134.15">COATING</tspan></text>
+<rect id="034-01 area" x="28.8137" y="1112.63" width="88.1176" height="28.5955" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="035">
+<text id="035 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="59.4465" y="574.045">WorkCenter 035&#10;</tspan><tspan x="25.5049" y="589.045">ELECTRONIC PRODUCTION</tspan></text>
+<rect id="035 area" x="5" y="559" width="206" height="146" stroke="#BABABA" stroke-width="6"/>
+<g id="035-01">
+<text id="035-01 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="72.3481" y="654.376">WorkStation 035-01&#10;</tspan><tspan x="58.3222" y="663.376">ELECTRONIC PRODUCTION</tspan></text>
+<rect id="035-01 area" x="48.5301" y="640.018" width="118.578" height="32.2616" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="036">
+<text id="036 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="1199.35" y="574.045">WorkCenter 036&#10;</tspan><tspan x="1177.98" y="589.045">CABLE / INSTALLATION</tspan></text>
+<rect id="036 area" x="1145" y="559" width="206" height="146" stroke="#BABABA" stroke-width="6"/>
+<g id="036-01">
+<text id="036-01 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="1213.68" y="656.083">WorkStation 036-01&#10;</tspan><tspan x="1207.19" y="665.083">CABLE / INSTALLATION</tspan></text>
+<rect id="036-01 area" x="1155.64" y="631.892" width="187.133" height="51.9279" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="037">
+<text id="037 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="1049.68" y="1464.05">WorkCenter 037&#10;</tspan><tspan x="1022.15" y="1479.05">FIXTURE ARMAMENTURE</tspan></text>
+<rect id="037 area" x="990" y="1449" width="216" height="146" stroke="#BABABA" stroke-width="6"/>
+<g id="037-01">
+<text id="037-01 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="1062.67" y="1552.65">WorkStation 037-01&#10;</tspan><tspan x="1059.91" y="1561.65">FIXTURE ARMAMENT</tspan></text>
+<rect id="037-01 area" x="1006" y="1526.63" width="184" height="55.5789" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<rect id="AssemblyBorder" x="4" y="558" width="1608" height="1038" stroke="#6E6D6D" stroke-width="8"/>
+<rect id="AssemblyDoor_2" x="1603" y="1439" width="198" height="18" transform="rotate(-90 1603 1439)" fill="white" stroke="black" stroke-width="2"/>
+<rect id="AssemblyDoor_1" x="1603" y="999" width="198" height="18" transform="rotate(-90 1603 999)" fill="white" stroke="black" stroke-width="2"/>
+</g>
+<g id="FactoryMechanic">
+<g id="002">
+<text id="002 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="2553.04" y="48.0455">WorkCenter 002&#10;</tspan><tspan x="2518.25" y="63.0455">CONTRACTING WORKSHOP</tspan></text>
+<rect id="002 area" x="2496" y="33" width="211" height="186" stroke="#BABABA" stroke-width="6"/>
+<g id="002-07">
+<text id="002-07 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="2565.63" y="166.527">WorkStation 002-07&#10;</tspan><tspan x="2574.02" y="175.527">CONTRACTING</tspan></text>
+<rect id="002-07 area" x="2543.5" y="147.75" width="115.75" height="41.1" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="009">
+<text id="009 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="2489.58" y="448.045">WorkCenter 009&#10;</tspan><tspan x="2466.08" y="463.045">MECHANICAL PROCESS</tspan></text>
+<rect id="009 area" x="2081.31" y="433" width="913.691" height="266" stroke="#BABABA" stroke-width="6"/>
+<g id="009-01">
+<text id="009-01 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="2098.51" y="674.227">WorkStation 009-01&#10;</tspan><tspan x="2107.74" y="683.227">CNC CUTTING</tspan></text>
+<rect id="009-01 area" x="2082" y="654" width="104" height="44" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="009-02">
+<text id="009-02 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="2122.99" y="454.227">WorkStation 009-02&#10;</tspan><tspan x="2105.85" y="463.227">PRESS + DRILL + GUILLOTINE</tspan></text>
+<rect id="009-02 area" x="2082" y="434" width="154" height="44" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="009-03">
+<text id="009-03 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="2628.87" y="674.227">WorkStation 009-03&#10;</tspan><tspan x="2613.1" y="683.227">CNC PROCESSING (FALCON)</tspan></text>
+<rect id="009-03 area" x="2583" y="654" width="164" height="44" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="009-04">
+<text id="009-04 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="2576.85" y="524.227">WorkStation 009-04&#10;</tspan><tspan x="2579.67" y="533.227">CNC PROCESSING</tspan></text>
+<rect id="009-04 area" x="2536" y="504" width="154" height="44" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="009-05">
+<text id="009-05 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="2285.98" y="564.227">WorkStation 009-05&#10;</tspan><tspan x="2269.68" y="573.227">VERTICAL PROCESSING CNC</tspan></text>
+<rect id="009-05 area" x="2245" y="544" width="154" height="44" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="009-06">
+<text id="009-06 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="2880.92" y="561.227">WorkStation 009-06&#10;</tspan><tspan x="2897.96" y="570.227">CLEANING</tspan></text>
+<rect id="009-06 area" x="2840" y="541" width="154" height="44" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="009-07">
+<text id="009-07 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="2881.19" y="674.227">WorkStation 009-07&#10;</tspan><tspan x="2871.51" y="683.227">CNC PROCESSING (FOM)</tspan></text>
+<rect id="009-07 area" x="2840" y="654" width="154" height="44" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="009-08">
+<text id="009-08 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="2412.95" y="674.227">WorkStation 009-08&#10;</tspan><tspan x="2395.34" y="683.227">CNC PROCESSING (COSMOS)</tspan></text>
+<rect id="009-08 area" x="2377" y="654" width="144" height="44" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="009-09">
+<text id="009-09 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="2905.92" y="454.227">WorkStation 009-09&#10;</tspan><tspan x="2907.06" y="463.227">SPONGE PRESSING</tspan></text>
+<rect id="009-09 area" x="2890" y="434" width="104" height="44" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="015">
+<text id="015 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="2843.52" y="48.0455">WorkCenter 015&#10;</tspan><tspan x="2796.02" y="63.0455">STUDING - DRIVEN WORKSHOP</tspan></text>
+<rect id="015 area" x="2787" y="33" width="208" height="163" stroke="#BABABA" stroke-width="6"/>
+<g id="015-01">
+<text id="015-01 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="2856.05" y="133.545">WorkStation 015-01&#10;</tspan><tspan x="2859.86" y="142.545">STUD - DRILLING</tspan></text>
+<rect id="015-01 area" x="2838.38" y="117.733" width="105" height="35.1691" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="021">
+<text id="021 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="1742.04" y="360.045">WorkCenter 021&#10;</tspan><tspan x="1741.07" y="375.045">MOLDING SHOP</tspan></text>
+<rect id="021 area" x="1699" y="345" width="181" height="181" stroke="#BABABA" stroke-width="6"/>
+<g id="021-02">
+<text id="021-02 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="1754.25" y="466.848">WorkStation 021-02&#10;</tspan><tspan x="1746.61" y="475.848">VERTICAL PROCESSING</tspan></text>
+<rect id="021-02 area" x="1734.37" y="443.668" width="110.45" height="49.9051" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="023">
+<text id="023 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="2284.84" y="48.0455">WorkCenter 023&#10;</tspan><tspan x="2245.31" y="63.0455">REGAL WELDING WORKSHOP</tspan></text>
+<rect id="023 area" x="2233" y="33" width="200.75" height="169.75" stroke="#BABABA" stroke-width="6"/>
+<g id="023-01">
+<text id="023-01 box" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="2298.03" y="149.944">WorkStation 023-01&#10;</tspan><tspan x="2304.97" y="158.944">REGAL SPONGE</tspan></text>
+<rect id="023-01 area" x="2285.75" y="128.538" width="95.4825" height="46.3567" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<g id="024">
+<text id="024 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12.5" letter-spacing="0em"><tspan x="1887.53" y="48.0455">WorkCenter 024&#10;</tspan><tspan x="1843.44" y="63.0455">HANLI MECHANICAL PROCESS</tspan></text>
+<rect id="024 area" x="1699" y="33" width="474" height="262" stroke="#BABABA" stroke-width="6"/>
+<g id="024-01">
+<text id="024-01 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="1740" y="167.874">WorkStation 024-01&#10;</tspan><tspan x="1758.21" y="176.874">WELDING</tspan></text>
+<rect id="024-01 area" x="1725.65" y="131" width="99.5486" height="77.2929" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="024-02">
+<text id="024-02 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="1901.95" y="107.303">WorkStation 024-02&#10;</tspan><tspan x="1890.02" y="116.303">MECHANICAL PROCESSES</tspan></text>
+<rect id="024-02 area" x="1876.74" y="91.0979" width="122.322" height="35.9549" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="024-03">
+<text id="024-03 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="2065.55" y="123.589">WorkStation 024-03&#10;</tspan><tspan x="2071.79" y="132.589">LASER CUTTING</tspan></text>
+<rect id="024-03 area" x="2048.15" y="106.555" width="106.93" height="37.6127" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="024-04">
+<text id="024-04 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="2059.03" y="247.541">WorkStation 024-04&#10;</tspan><tspan x="2051.84" y="256.541">SHEET METAL BENDING</tspan></text>
+<rect id="024-04 area" x="2037.15" y="231.419" width="115.937" height="35.7888" stroke="#BABABA" stroke-width="4"/>
+</g>
+<g id="024-05">
+<text id="024-05 name" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="7.5" letter-spacing="0em"><tspan x="1905.2" y="212.743">WorkStation 024-05&#10;</tspan><tspan x="1915.31" y="221.743">PIPE BENDING</tspan></text>
+<rect id="024-05 area" x="1891.27" y="199.194" width="99.7757" height="30.6429" stroke="#BABABA" stroke-width="4"/>
+</g>
+</g>
+<rect id="MechanicBorder" x="1698" y="32" width="1298" height="668" stroke="#6E6D6D" stroke-width="8"/>
+<rect id="MechanicDoor_1" x="1785" y="691" width="198" height="18" fill="white" stroke="black" stroke-width="2"/>
+</g>
+</g>
+</svg>
